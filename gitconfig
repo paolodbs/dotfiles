@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = paolo.debiase@gmail.com
+	name = Paolo De Biase
